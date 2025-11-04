@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
 import java.util.Scanner;
 
-public class FolderLockerApp 
+public class FolderLockerApp
 {
 
     public static void main(String[] args) 
